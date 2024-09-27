@@ -1,0 +1,29 @@
+
+  
+  .nav-item {
+    width: 100px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #060a10;
+  }
+  
+  nav a.active {
+    font-weight: bold;
+    
+  }
+  
+  
+  
+  nav a:hover {
+    color: #01060d;
+  }
+  
+  
+  
+  nav a:not(.navbar-brand):hover {
+    font-weight: bold;
+  }
+  
+  

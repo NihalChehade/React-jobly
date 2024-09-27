@@ -1,0 +1,24 @@
+.Home {
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+  height: 100vh;           
+  flex-direction: column; 
+  color:white; 
+  
+}
+
+.Home h1 {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.Home p {
+  font-size: larger;
+  
+}
+
+.Home-btn {
+  font-weight: bold !important;
+ margin-right:15px;
+}

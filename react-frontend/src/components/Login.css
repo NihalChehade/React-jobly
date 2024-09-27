@@ -1,0 +1,19 @@
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column; 
+  color:white; 
+  
+}
+
+.Login form {
+    background-color: white;
+    color:black;
+    width: 30%;
+    padding: 20px;
+    border: 5px rgb(10, 8, 8) block;
+    border-radius: 7px;
+    font-weight: bold;
+}

@@ -1,0 +1,19 @@
+
+a {  
+  text-decoration: inherit;
+}
+
+
+body {
+  margin: 0;
+  /* display: flex; */
+  /* place-items: center; */
+  /* min-width: 320px;
+  min-height: 100vh; */
+  background-image: url(https://joelburton-jobly.surge.sh/static/media/background.6549e727ece768243a0f.png);
+  background-attachment: fixed;
+  /* background-position: 50%; */
+  background-size: cover;
+}
+
+
